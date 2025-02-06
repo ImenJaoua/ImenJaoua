@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, keras, PyTorch**
 
-- 📫 How to reach me **imene.jaoua@ensi-uma.tn**
+- 📫 How to reach me **imen.jaoua@umontreal.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,9 +2,7 @@
 <h3 align="center">Interested in Machine learning and deep learning</h3>
 
 
-- 🌱 I’m currently learning **Tensorflow, keras, PyTorch**
-
-- 📫 How to reach me **imen.jaoua@umontreal.ca**
+📫 How to reach me **imen.jaoua@umontreal.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
